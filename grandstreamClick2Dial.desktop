@@ -1,0 +1,13 @@
+#!/usr/bin/xdg-open
+[Desktop Entry]
+Name=GS-Click2Dial
+GenericName=Dialer
+GenericName[de]=Nummern mit Telefon wählen
+Comment=Grandstream Dialer
+Exec=/home/roland/bin/dialGS.sh %u
+Icon=/usr/share/pixmaps/other/URL-Handlers.png
+Terminal=true
+Type=Application
+StartupNotify=false
+Categories=Communication;Network;
+OnlyShowIn=GNOME;XFCE;

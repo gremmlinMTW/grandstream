@@ -1,0 +1,14 @@
+#!/usr/bin/xdg-open
+[Desktop Entry]
+Name=Click2Dial CnP
+GenericName=Dialer
+GenericName[de]=Nummern mit Telefon wählen
+Comment=Grandstream Dialer
+Exec=/home/roland/bin/dialGScnp.sh
+Icon=/usr/share/pixmaps/other/Connection-Modem_Wrench.png
+Terminal=true
+Type=Application
+StartupNotify=false
+Categories=Communication;Network;
+OnlyShowIn=GNOME;XFCE;
+URL=tel
